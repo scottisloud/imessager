@@ -29,6 +29,7 @@ Message is a string of any length that will comprise the body of the message sen
 
 ## Installation and Use
 To use this function:
+
 1. Download the imessager.R file (or clone this repo)
 2. move the R file to the working directory of your choice for your R files
 3. use:
