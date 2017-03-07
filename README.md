@@ -34,7 +34,7 @@ To use this function:
 2. move the R file to the working directory of your choice for your R files
 3. use:
 ```
-source("~\working directory")
+source("~\working directory\imessager.R")
 ```
 in the R script you'd like to use the function.  
 4. Call the function with:
