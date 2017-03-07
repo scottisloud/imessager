@@ -1,5 +1,5 @@
 send.imessage <- function(recipient, message) {
-###############################
+##############################
 ##############
 ### SEND IMESSAGE
 ### This function accepts strings for 
@@ -8,7 +8,7 @@ send.imessage <- function(recipient, message) {
   # iMessage to the recipent containing the message string.
   # Both arguments must be strings
 #############
-###############################
+##############################
 
 #opens Messages.app without bringing application window to foreground
 openApp <- "open /Applications/Messages.app -g"
