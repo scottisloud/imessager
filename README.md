@@ -36,7 +36,8 @@ To use this function:
 ```
 source("~\working directory")
 ```
-in the R script you'd like to use the function.  
+in the R script you'd like to use the function.
+
 4. Call the function with:
 ```
 send.imessage(recipient: string, message: string)
