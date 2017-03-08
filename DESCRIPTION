@@ -1,0 +1,10 @@
+Package: imessager
+Title: Send iMessages from R
+Version: 0.0.0.9000
+Authors@R: person("Scott", "Lougheed", email = "scott@scottlougheed.com", role = c("aut", "cre"))
+Description: MessageR is a short and simple function you can use to send iMessages from R running macOS 10.8.x or later. You must have iMessages configured for the user account you are running R on.
+Depends: R (>= 3.3.2)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
