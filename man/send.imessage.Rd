@@ -7,12 +7,12 @@
 send.imessage(recipient, message)
 }
 \arguments{
-\item{recipient}{Recipient Phone number or email registered with iMessage? STRING}
+\item{recipient}{Recipient phone number or email registered with 'iMessage'? STRING}
 
 \item{message}{What message would you like to send? STRING}
 }
 \description{
-iMessageR is a short and simple function you can use to send iMessages from R running macOS 10.8.x or later. You must have iMessages configured for the user account you are running R on.
+A short and simple function you can use to send 'iMessages' from R running 'macOS' 10.8.x or later. You must have 'Messages.app' configured for the user account you are running 'R' on.
 }
 \examples{
 send.imessage("5551234567","Hello World!")

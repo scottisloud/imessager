@@ -1,7 +1,7 @@
 #' Send iMessages from R
 #' 
-#' iMessageR is a short and simple function you can use to send iMessages from R running macOS 10.8.x or later. You must have iMessages configured for the user account you are running R on.
-#' @param recipient Recipient Phone number or email registered with iMessage? STRING
+#' A short and simple function you can use to send 'iMessages' from R running 'macOS' 10.8.x or later. You must have 'Messages.app' configured for the user account you are running 'R' on.
+#' @param recipient Recipient phone number or email registered with 'iMessage'? STRING
 #' @param message What message would you like to send? STRING
 #' @keywords notification
 #' @export
