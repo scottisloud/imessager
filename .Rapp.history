@@ -1,8 +1,0 @@
-setwd(~/Documents/Scripts/imessager)
-getwd()
-setwd(""~/Documents/Scripts/imessager")
-setwd("~/Documents/Scripts/imessager")
-getwd()
-dir
-ls()
-dir()
